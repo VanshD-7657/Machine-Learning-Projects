@@ -1,7 +1,3 @@
-Here’s a **professional README.md** for your **Credit Score Prediction (Classification)** project:
-
----
-
 # 📊 Credit Score Prediction using Machine Learning
 
 ## 📌 Overview
